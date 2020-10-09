@@ -17,3 +17,8 @@ body {
 .text-color-theme {
     color: #f7ce3d;
 }
+
+.bg-button {
+    background-color: #f7ce3d !important;
+    color: #000000 !important;
+}

@@ -3,3 +3,12 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
 }
+
+.bg-theme-main {
+    background-color: #000000;
+    
+}
+
+.text-color-theme {
+    color: #f7ce3d;
+}

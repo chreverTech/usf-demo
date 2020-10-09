@@ -2,6 +2,11 @@
 
 body {
     font-family: 'Josefin Sans', sans-serif;
+    min-height: 100vh;
+}
+
+.bg-cover {
+    background-size: cover !important;
 }
 
 .bg-theme-main {
